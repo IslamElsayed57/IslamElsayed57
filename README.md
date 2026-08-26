@@ -36,14 +36,6 @@ I am a beginner **Front-End and Back-End Developer** passionate about building u
   </a>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IslamElsayed57&show_icons=true&theme=tokyonight" alt="Islam's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslamElsayed57&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
 ---
 
 <p align="center">
