@@ -45,8 +45,6 @@ I enjoy turning ideas into websites and applications using clean code, and I’m
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- أزل التعليق بعد إضافة رابط LinkedIn الخاص بك -->
-  <!--
   <a href="www.linkedin.com/in/islam-elsayed-4a686223a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
