@@ -10,13 +10,13 @@ I am a beginner **Front-End and Back-End Developer** passionate about building u
 ## 🛠️ Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,postgres,supabase,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,supabase,github" />
 </p>
 
 - **Front-End:** HTML, CSS, JavaScript  
 - **Back-End:** Python  
 - **Database:** SQL, Supabase  
-- **Tools:** Git, GitHub  
+- **Tools:** GitHub  
 
 ## 🚀 What I'm Working On
 
@@ -30,6 +30,9 @@ I am a beginner **Front-End and Back-End Developer** passionate about building u
 <p align="left">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
