@@ -13,7 +13,7 @@ I enjoy turning ideas into websites and applications using clean code, and I’m
 ## My Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,supabase,sql,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,supabase,github,vscode" />
 </p>
 
 ## What I'm Learning
