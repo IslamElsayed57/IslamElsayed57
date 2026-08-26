@@ -28,7 +28,7 @@ I am a beginner **Front-End and Back-End Developer** passionate about building u
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/IslamElsayed57">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="www.linkedin.com/in/islam-elsayed-4a686223a">
@@ -39,9 +39,9 @@ I am a beginner **Front-End and Back-End Developer** passionate about building u
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Islam's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IslamElsayed57&show_icons=true&theme=tokyonight" alt="Islam's GitHub stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslamElsayed57&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
