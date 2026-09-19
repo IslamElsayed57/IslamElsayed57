@@ -12,8 +12,6 @@ I am a beginner **Front-End and Back-End Developer** passionate about building u
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,supabase,github" />
   <img title="SQL" alt="SQL" width="45px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
-  <img title="C++" alt="C++" width="45px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />&nbsp;
-  <img title="PHP" alt="PHP" width="45px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" />
 </p>
 
 - **Front-End:** HTML, CSS, JavaScript  
